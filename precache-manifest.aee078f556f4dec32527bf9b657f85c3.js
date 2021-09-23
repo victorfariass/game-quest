@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26a56976584a7f37f8df15d433f197f4",
+    "revision": "5bb8fd0de48b0e4970467986b04488c8",
     "url": "/game-quest/index.html"
   },
   {
-    "revision": "3a8bfb37787c389be388",
+    "revision": "0c2aaa36247e7f164408",
     "url": "/game-quest/static/css/main.53421982.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game-quest/static/js/2.19199d91.chunk.js.LICENSE"
   },
   {
-    "revision": "3a8bfb37787c389be388",
-    "url": "/game-quest/static/js/main.97f54fe5.chunk.js"
+    "revision": "0c2aaa36247e7f164408",
+    "url": "/game-quest/static/js/main.963c2222.chunk.js"
   },
   {
     "revision": "1595d11eb4257768e4f3",
